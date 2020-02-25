@@ -1,5 +1,6 @@
-# ```statmi```: Mutual information and other entropy-related measures for statistical analysis.
+# ```statmi```: Mutual information and other entropy-related measures for data
 
+```statmi``` is an information theory package for use in statistics, machine learning, data analysis, econometrics, etc.
 
 ## Conceptual introduction to MI
 
